@@ -6,5 +6,5 @@ Step by step running code automation test use Katalon Studio:
 2. After Install Katalon Studio, open Katalon Studio apps
 3. Open and login website "github"
 4. Click "Clone Git Project"
-5. Input RepositoryURL
+5. Input RepositoryURL "https://github.com/richardnicolaus2410/jawabanAutomationTest_HIGO_RichardNicolausMukin"
 6. Input your user and password GITHUB --> click "Next"
